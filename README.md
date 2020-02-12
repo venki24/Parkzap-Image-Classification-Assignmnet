@@ -1,1 +1,1 @@
-# Parkzap-Image-Classification-Assignmnet
+# Parkzap-Image-Classification-Assignment
